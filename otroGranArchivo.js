@@ -1,2 +1,2 @@
-const granArchivo = 'elGranArchivo';
+const granArchivo = 'elGranArchivo2';
 const mod = true;
